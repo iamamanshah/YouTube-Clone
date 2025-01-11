@@ -1,0 +1,51 @@
+.click{
+    font-family:Impact;
+    color:red;
+    font-size:20px;
+}
+
+.aks{
+    font-family:arial;
+    font-size:10px;
+    font-weight:lighter;
+
+    border:none;
+    background-color:rgb(26, 103, 212);
+    color:white;
+    border-radius:5px;
+    font-size:10px;
+
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:7px;
+    padding-bottom:7px;
+    transition:0.15s;
+
+    }
+
+    .aks:hover{
+        background-color:rgba(26, 103, 212, 0.846);
+      
+    }
+
+    .aks:active{
+        background-color: rgba(26, 103, 212, 0.64);
+       
+    }
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+  

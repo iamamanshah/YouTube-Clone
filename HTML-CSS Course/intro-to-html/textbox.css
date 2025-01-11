@@ -1,0 +1,89 @@
+.textbox1{
+    width:130px;
+    height:25px;
+    padding-left:5px;
+    border-radius: 1px;
+    border:solid;
+    border-radius:5px;
+    border-width:0.1px;
+    border-color:rgba(0, 0, 0, 0.434);
+    
+}
+
+.textbox2{
+    font-size: 16px;
+    width: 500px;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-top: 20px;
+    margin-left: 20px;
+   
+}
+
+.textbox3{
+    position:relative;
+    top:80px;
+    width:250px;
+}
+
+.email{
+
+    position:relative;
+    top:25px;
+    font-family:Arial;
+    color:rgba(0, 0, 0, 0.664);
+    font-size:13px;
+}
+
+.tac{
+    position:relative;
+    top:50px;
+    font-family:Arial;
+    font-size:10px;
+    color:rgba(0, 0, 0, 0.664);
+
+}
+
+.submit{
+    position:relative;
+    top:65px;
+    left:0px;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:Normal;
+    background-color:rgb(10, 102, 194);
+    color:white;
+    display:inline;
+    padding: 10px 80px;
+    border-radius:30px;
+    
+}
+
+.pp{
+    position:relative;
+    left:230px;
+    width:30px;
+    object-position:center;
+    border-radius:30px;
+    vertical-align: middle;
+    
+}
+
+.textbox4{
+    position:relative;
+    left:200px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:40px;
+   
+}
+
+.tweet-button{
+    position:relative;
+    left:250px;
+}

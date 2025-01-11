@@ -1,0 +1,277 @@
+.pp1{
+    width:30px;
+    border-radius:15px;
+    position:relative;
+    top:10px;
+    left:0px;
+    
+
+}
+
+.tweet-preview{
+    border:solid;
+    display:solid;
+    border:none;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    padding-left:10px;
+    width:300px;
+    border-radius:5px;
+    
+}
+
+.textbox1{
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size:13px;
+    margin-bottom:5px;
+    border:none;
+    outline:none;
+
+}
+
+.tweet-button{
+    background-color: rgb(67, 138, 232);
+    color:white;
+    border:none;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:13px;
+    padding-right:13px;
+    margin-top:5px;
+    margin-right:15px;
+    margin-bottom:5px;
+    margin-left:5px;
+    border-radius:20px;
+    font-family: Arial;
+    font-size:14px;
+    transition:0.15s;
+
+    
+}
+
+.tweet-button:hover{
+    background-color: rgba(67, 139, 232, 0.84);
+  
+  
+}
+
+.tweet-button:active{
+    background-color:rgba(67, 139, 232, 0.514);
+}
+
+p{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+
+
+.fb{
+    display:inline-block;
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    margin-top:15px;
+    margin-right:7px;
+   
+}
+
+
+
+.dp1{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 12px;
+    
+}
+
+.uname{
+    font-size: 18px;
+  font-weight: bold;
+  margin-left: 8px;
+  margin-bottom: 4px;
+}
+    
+
+.info1{
+    color: rgb(100, 100, 100);
+  margin-left: 8px;
+  margin-bottom: 12px;
+}
+
+.addf{
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+  }
+
+ 
+
+  .fb2{
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    margin-top:15px;
+    display:inline-block;
+    margin-right:7px;
+   
+}
+
+
+
+.dp2{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: top;
+    margin-bottom: 12px;
+    
+}
+
+.uname2{
+    font-size: 18px;
+  font-weight: bold;
+  margin-left: 8px;
+  margin-bottom: 4px;
+}
+    
+
+.info2{
+    color: rgb(100, 100, 100);
+  margin-left: 8px;
+  margin-bottom: 12px;
+}
+
+.addf2{
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+  }
+
+  .fb3{
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    margin-top:15px;
+    display:inline-block;
+   
+}
+
+
+
+.dp3{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 12px;
+    
+}
+
+.uname3{
+    font-size: 18px;
+  font-weight: bold;
+  margin-left: 8px;
+  margin-bottom: 4px;
+}
+    
+
+.info3{
+    color: rgb(100, 100, 100);
+  margin-left: 8px;
+  margin-bottom: 12px;
+}
+
+.addf3{
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+  }
+
+
+  .google-div{
+   margin-left:300px;
+   
+   display:inline-block;
+  }
+
+  .google-logo{
+    width:250px;
+    margin-bottom:-30px;
+    margin-left:90px;
+
+  }
+
+  .textbox-url{
+    width:300px;
+    font-family:Arial;
+    font-size:17px;
+    padding-top:10px;
+    padding-right:140px;
+    padding-bottom:10px;
+    padding-left:10px;
+    border:none;
+    box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+    margin-bottom:90px;
+    margin-right:800px;
+    outline:none;
+    border-radius:30px;
+  }
+
+  .g-search{
+    padding-top:10px;
+    padding-right:15px;
+    padding-bottom:10px;
+    padding-left:15px;
+    border:none;
+    background-color: rgba(128, 128, 128, 0.271);
+    margin-right:5px;
+    position: relative;
+    bottom:60px;
+    left:80px;
+
+
+
+  }
+
+  .lucky{
+    padding-top:10px;
+    padding-right:15px;
+    padding-bottom:10px;
+    padding-left:15px;
+    border:none;
+    background-color: rgba(128, 128, 128, 0.271);
+    margin-left:5px;
+    position: relative;
+    bottom:60px;
+    left:80px;
+
+    
+  }
+
+  
+
+
+  

@@ -1,0 +1,54 @@
+
+.header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+
+.left-section{
+    display:flex;
+    align-items:center;   
+}
+
+.side-menu{
+    height:20px;
+    margin-left:24px;
+    margin-right:24px;
+}
+
+.yt-logo{
+    width:100px;
+}
+
+.middle-section{
+    
+    flex: 1;
+    margin-left:70px;
+    margin-right:35px;
+    max-width:500px;
+}
+
+
+
+.search-button{
+    height:40px;
+    width:70px;
+}
+
+.voice-search-button{
+    height:40px;
+    width:40px;
+}
+
+.right-section{
+    
+    width:250px;
+}
+
+.icon1, .icon2, .icon3, .icon4{
+    width:40px;
+}
